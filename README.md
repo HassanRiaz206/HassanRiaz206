@@ -1,6 +1,6 @@
 
 
-![Hassan Riaz](https://github.com/HassanRiaz206/HassanRiaz206/blob/main/Hassan%20Riaz%20(1).png)
+![Hassan Riaz](https://github.com/HassanRiaz206/HassanRiaz206/blob/main/Hassan%20Riaz%20(2).png)
 
 <h1 align="center">Hi, I'm Hassan Riaz!</h1>
 
@@ -60,10 +60,10 @@
 
 ## Videos
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=uz7RUxK8soE"><img src="https://img.shields.io/badge/YouTube_Video_1-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=Q_WFPdm4NuI"><img src="https://img.shields.io/badge/YouTube_Video_2-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=4ujnw35Wwdk"><img src="https://img.shields.io/badge/YouTube_Video_3-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=0zCqCjfUFa8&t=71s"><img src="https://img.shields.io/badge/YouTube_Video_4-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=uz7RUxK8soE" title="Math Quest - Play to Learn"><img src="https://img.shields.io/badge/Math_Quest_Play_to_Learn-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=Q_WFPdm4NuI" title="Stack Ball - Smash Platform"><img src="https://img.shields.io/badge/Stack_Ball_Smash_Platform-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=4ujnw35Wwdk" title="Line Color 3D: Endless Path"><img src="https://img.shields.io/badge/Line_Color_3D_Endless_Path-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=0zCqCjfUFa8&t=71s" title="What is Game Development | How to become a game developer?"><img src="https://img.shields.io/badge/What_is_Game_Development-%232D2D2D.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ## Contact

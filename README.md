@@ -1,6 +1,6 @@
 
 
-![Hassan Riaz](path/to/your/photo.jpg)
+![Hassan Riaz](https://github.com/HassanRiaz206/HassanRiaz206/blob/main/Hassan%20Riaz%20(1).png)
 
 <h1 align="center">Hi, I'm Hassan Riaz!</h1>
 
